@@ -1,7 +1,9 @@
-<!--![golden-boy-fake-keyboard-programing-coding-paper-book (1)](https://user-images.githubusercontent.com/79399885/168474463-b86c2a38-63c5-489b-a1b4-eed33cbb85aa.gif)-->
+<p align="center">
+<img height="200px" width="500px" alt="goldenBoyCodign" src="https://c.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
+  </p>
 <h1 align="center">Hi 👋, I'm Nicola.</h1>
 <h3 align="center">A Front-End enthusiast from Italy!</h3>
-<img align="right" height="200px" class="gif" alt="goldenBoyCodign" src="https://c.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicklashellion&label=Profile%20views&color=0e75b6&style=flat" alt="nicklashellion" /> </p>
 
