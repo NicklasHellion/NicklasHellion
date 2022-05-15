@@ -1,5 +1,5 @@
 <!--![golden-boy-fake-keyboard-programing-coding-paper-book (1)](https://user-images.githubusercontent.com/79399885/168474463-b86c2a38-63c5-489b-a1b4-eed33cbb85aa.gif)-->
-<img class="gif" alt="goldenBoyCodign" src="https://c.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
+<img margin="0 auto" height="200px" class="gif" alt="goldenBoyCodign" src="https://c.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
 <h1 align="center">Hi 👋, I'm Nicola.</h1>
 <h3 align="center">A Front-End enthusiast from Italy!</h3>
 
@@ -34,10 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicklashellion&show_icons=true&locale=en" alt="nicklashellion" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicklashellion&" alt="nicklashellion" /></p>
-
-<style>
-.gif {
-  margin: 0 auto;
-  height: 300px;
-}
-  </style>
