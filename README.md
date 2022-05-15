@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="20997049" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/golden-boy-fake-keyboard-programing-coding-paper-book-gif-20997049">Golden Boy Fake Keyboard Programing Coding Paper Book GIF</a>from <a href="https://tenor.com/search/golden+boy+fake+keyboard+programing+coding+paper+book-gifs">Golden Boy Fake Keyboard Programing Coding Paper Book GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![golden-boy-fake-keyboard-programing-coding-paper-book (1)](https://user-images.githubusercontent.com/79399885/168474463-b86c2a38-63c5-489b-a1b4-eed33cbb85aa.gif)
 <h1 align="center">Hi 👋, I'm Nicola.</h1>
 <h3 align="center">A Front-End enthusiast from Italy!</h3>
 
