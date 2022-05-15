@@ -1,5 +1,5 @@
 <p align="center">
-<img height="200px" width="500px" alt="goldenBoyCodign" src="https://c.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
+<img height="300px" width="500px" alt="goldenBoyCodign" src="https://c.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
   </p>
 <h1 align="center">Hi 👋, I'm Nicola.</h1>
 <h3 align="center">A Front-End enthusiast from Italy!</h3>
