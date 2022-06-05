@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
-- 👯 I’m looking to collaborate on **Front-End development projects.**
+- 👯 I’m looking forward to collaborating on **Front-End development projects.**
 
 - 🤝 I’m looking for help with **kickstarting my career as a Front-End developer.**
 
